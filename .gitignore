@@ -4,3 +4,5 @@
 ## Bower
 **/bower_components
 
+*.zip
+
