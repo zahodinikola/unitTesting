@@ -1,0 +1,25 @@
+{
+  "name": "unittesting",
+  "version": "1.0.0",
+  "description": "tutorial of testing application",
+  "main": "specrunner.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zahodinikola/unitTesting.git"
+  },
+  "keywords": [
+    "tutor"
+  ],
+  "author": "Andrey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zahodinikola/unitTesting/issues"
+  },
+  "homepage": "https://github.com/zahodinikola/unitTesting#readme",
+  "devDependencies": {
+    "karma": "^1.7.0"
+  }
+}
